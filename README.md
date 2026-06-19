@@ -20,8 +20,8 @@ Journalctl
 
 PROJECT STRUCTURE
 
-dunique@DESKTOP-HUL54K8:~/sys_security_check$ tree
-.
+/sys_security_check$ tree
+|
 ├── README.md
 ├── archives
 │   └── security_report_2026-06-19.tar.gz
@@ -43,7 +43,7 @@ e. Generates a security report
 ARCHIVING SCRIPT
 
 a. Compresses reports
-b. Stores them in archives/
+b. Stores them in archives
 c. Uses date based filenames
 
 SETUP
